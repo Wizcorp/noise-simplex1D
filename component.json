@@ -1,0 +1,10 @@
+{
+	"name": "simple1D",
+	"repo": "Wizcorp/noise-simple1D",
+	"description": "1-dimensional Noise",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
